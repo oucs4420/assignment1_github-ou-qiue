@@ -10,7 +10,7 @@ using namespace std;
 
 int main( int argc, char* argv[] )
 {
-    // just to get you started, this is how to refer to the arguments that were passed
+    // just to get you started, this is how to refer to the arguments that were passed....
     for (int arg = 0; arg < argc; ++arg)
             std::cout << "argv[" << arg << "]: " << argv[arg] << '\n' ;
 
